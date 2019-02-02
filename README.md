@@ -13,6 +13,6 @@ based on the tweet IDs from above archive.
 - The neural network predictions results downloaded programmatically using the Requests
 library. This table presents the classification results of each image alongside each tweet
 ID, URL, and the confidence level.
-After iteratively assessing and cleaning data from these three sources, I conducted exploratory data analysis on the cleaned dataset. Firstly, I programmatically assess the statistic of the different column:
+After iteratively assessing and cleaning data from these three sources, I conducted exploratory data analysis on the cleaned dataset. 
 
-##
+
